@@ -4,3 +4,5 @@ wake
 eat
 sleep
 -------------
+wake 
+s88k
